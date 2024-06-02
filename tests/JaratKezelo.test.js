@@ -1,4 +1,3 @@
-// tests/JaratKezelo.test.js
 import { describe, it, expect, beforeEach } from 'vitest';
 import JaratKezelo from '../JaratKezelo';
 
